@@ -1,0 +1,13 @@
+Sports bar
+
+Attributes:
+has_beer_on_tap = true
+liquor =  ["Vodka", "Dark Rum", "Gin", "Whiskey"]
+available_seats = 18
+bartender_on_duty = "Mark"
+
+Methods:
+new_kegerator: has_beer_on_tap = true
+add_liquor: liquor = ["Vodka", "Dark Rum", "Gin", "Whiskey", "White Rum"]
+customer_left: available_seats = 19
+trevor_bartending: bartender_on_duty = "Trevor"
