@@ -7,7 +7,7 @@ cooks_on_duty (array)
 ingredients (array)
 
 Methods:
-prepare_spaghetti (uses ingredients array)
+add_ingredient (adds element to ingredients array)
 turn_up_oven (reassigns the oven_temperature attribute)
 turn_sink_on (reassigns sink_on to true)
-shift_change (modifies the cooks_on_duty attribute)
+shift_change (adds and removes elements from the cooks_on_duty attribute)
