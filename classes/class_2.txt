@@ -1,0 +1,13 @@
+Class: bar
+
+Attributes:
+has_beer_on_tap (boolean)
+liquor (array)
+available_seats (integer)
+bartender_on_duty (string)
+
+Methods:
+new_kegerator (reassigns has_beer_on_tap to true)
+add_liquor (adds element to liquor array)
+customer_left (modifies available_seats)
+trevor_bartending (changes bartender_on_duty string to Trevor)
