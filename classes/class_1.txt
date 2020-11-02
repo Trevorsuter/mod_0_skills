@@ -1,0 +1,13 @@
+Class: kitchen
+
+Attributes:
+sink_on (boolean)
+oven_temperature (integer)
+employees_on_duty (array)
+ingredients (array)
+
+Methods:
+prepare_spaghetti (uses ingredients array)
+turn_up_oven (reassigns the oven_temperature attribute)
+turn_sink_on (reassigns sink_on to true)
+pm_shift_change (modifies the employees_on_duty attribute)
