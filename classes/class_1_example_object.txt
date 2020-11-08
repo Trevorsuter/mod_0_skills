@@ -10,4 +10,4 @@ Methods:
 AddIngredient: ingredients = ["cheese", "sauce", "dough", "pepperoni", "sausage", "green pepper"]
 TurnUpOven: oven_temperature = 575
 TurnSinkOn: sink_on = true
-ShiftChange: cooks_on_duty = ["Fred", "Jackson"]
+ChangeCook: cooks_on_duty = ["Fred", "Jackson"]

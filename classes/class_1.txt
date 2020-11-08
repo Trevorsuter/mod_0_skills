@@ -10,4 +10,4 @@ Methods:
 AddIngredient (adds element to Ingredients array)
 TurnUpOven (reassigns the OvenTemperature attribute)
 TurnSinkOn (reassigns SinkOn to true)
-ShiftChange (adds and removes elements from the CooksOnDuty attribute)
+ChangeCook (adds and removes elements from the CooksOnDuty attribute)

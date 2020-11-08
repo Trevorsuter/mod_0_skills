@@ -7,7 +7,7 @@ AvailableSeats (integer)
 BartenderOnDuty (string)
 
 Methods:
-NewKegerator (reassigns HasBeerOnTap to true)
+AddKegerator (reassigns HasBeerOnTap to true)
 AddLiquor (adds element to Liquor array)
-CustomerLeft (modifies AvailableSeats)
-TrevorBartending (changes BartenderOnDuty string to Trevor)
+AddSeat (modifies AvailableSeats)
+ChangeBartender (changes BartenderOnDuty)

@@ -7,7 +7,7 @@ AvailableSeats = 18
 BartenderOnDuty = "Mark"
 
 Methods:
-NewKegerator: has_beer_on_tap = true
+AddKegerator: has_beer_on_tap = true
 AddLiquor: liquor = ["Vodka", "Dark Rum", "Gin", "Whiskey", "White Rum"]
-CustomerLeft: available_seats = 19
-TrevorBartending: bartender_on_duty = "Trevor"
+AddSeat: available_seats = 19
+ChangeBartender: bartender_on_duty = "Trevor"
