@@ -1,9 +1,0 @@
-food = "spaghetti"
-is_delicious = false
-food = "pizza"
-num_2 = 15
-num_7 = 30
-quotient = 2
-songs = ["our song", "hello"]
-songs.shift
-food.length
