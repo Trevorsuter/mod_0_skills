@@ -1,13 +1,13 @@
 Class: kitchen
 
 Attributes:
-sink_on (boolean)
-oven_temperature (integer)
-cooks_on_duty (array)
-ingredients (array)
+SinkOn (boolean)
+OvenTemperature (integer)
+CooksOnDuty (array)
+Ingredients (array)
 
 Methods:
-add_ingredient (adds element to ingredients array)
-turn_up_oven (reassigns the oven_temperature attribute)
-turn_sink_on (reassigns sink_on to true)
-shift_change (adds and removes elements from the cooks_on_duty attribute)
+AddIngredient (adds element to Ingredients array)
+TurnUpOven (reassigns the OvenTemperature attribute)
+TurnSinkOn (reassigns SinkOn to true)
+ShiftChange (adds and removes elements from the CooksOnDuty attribute)

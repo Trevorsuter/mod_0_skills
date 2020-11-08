@@ -1,13 +1,13 @@
 Pizza kitchen
 
 Attributes:
-sink_on = false
-oven_temperature = 550
-cooks_on_duty = ["Trevor", "Jason", "Matt"]
-ingredients = ["cheese", "sauce", "dough", "pepperoni", "sausage"]
+SinkOn = false
+OvenTemperature = 550
+CooksOnDuty = ["Trevor", "Jason", "Matt"]
+Ingredients = ["cheese", "sauce", "dough", "pepperoni", "sausage"]
 
 Methods:
-add_ingredient: ingredients = ["cheese", "sauce", "dough", "pepperoni", "sausage", "green pepper"]
-turn_up_oven: oven_temperature = 575
-turn_sink_on: sink_on = true
-shift_change: cooks_on_duty = ["Fred", "Jackson"]
+AddIngredient: ingredients = ["cheese", "sauce", "dough", "pepperoni", "sausage", "green pepper"]
+TurnUpOven: oven_temperature = 575
+TurnSinkOn: sink_on = true
+ShiftChange: cooks_on_duty = ["Fred", "Jackson"]
